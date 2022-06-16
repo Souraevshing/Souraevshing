@@ -1,7 +1,7 @@
 
 - 👀 I’m interested in MERN App Development
 - 🌱 I’m currently learning NodeJS, ReactJS, MongoDB, JSE
-- 💞️ I’m looking to collaborate on ReactJS, NodeJS, MongoDB
+- 💞️ I’m looking to collaborate on React.Js, Node.Js, MongoDB, Express.Js, Rest API
 - 📫 How to reach me isauravshing@gmail.com
 
 <!---
