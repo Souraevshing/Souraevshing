@@ -2,11 +2,11 @@
 
 <h3> 👨 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🤔 &nbsp; Exploring MERN Stack technologies.
+- 🎓 &nbsp; Studied Electronics at Oriental College of Technology.
+- 💼 &nbsp; Working as a Graduate Trainee at Wipro Technologies.
+- 🌱 &nbsp; Learning more about MERN, Data Science, Java Full Stack.
+- ✍️ &nbsp; Sketching as a hobby.
 
 <h3>:fire: &nbsp;Tech Stack</h3>
 
@@ -48,10 +48,12 @@
 <h3>  :mega: Connect with Me </h3>
 
 <p align="center">
-<a href="https://sauraevshing-portfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/sourav-kumar-823b7415b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/sauraevshing/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sauraevshing-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:isauravshing@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-isauravshing@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:isauravshing@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-isauravshing@gmail.com-yellow?style=flat-square&logo=gmail"></a>
+<a href="https://sauraevshing-portfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=next.js"></a>
+<a href="https://www.linkedin.com/in/sourav-kumar-823b7415b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sourav%20Kumar%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/sauraevshing/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Sauraevshing-red?style=flat-square&logo=instagram"></a>
+<a href="https://www.facebook.com/sauraevshing/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Sauraevshing-skyblue?style=flat-square&logo=facebook"></a>
+<a href="https://twitter.com/thisis_souraev"><img alt="Twitter" src="https://img.shields.io/badge/Facebook-Souraev-blue?style=flat-square&logo=twitter"></a>
 </p>
 
 ⭐️ From [Sourav](https://github.com/Souraevshing)
