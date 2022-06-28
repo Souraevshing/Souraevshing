@@ -26,6 +26,7 @@
   ![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![Next.js](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
   ![Gatsby.js](https://img.shields.io/badge/-Gatsby-333333?style=flat&logo=gatsby)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-233876?style=flat&logo=graphql)
   ![Svelte.js](https://img.shields.io/badge/-Svelte-333333?style=flat&logo=svelte)
   ![RestAPI](https://img.shields.io/badge/Rest-API-/blue)
 - 🛢 &nbsp;
