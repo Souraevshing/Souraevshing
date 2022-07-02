@@ -92,5 +92,7 @@
 </p>
 
 <p>
-  <img src="https://img.icons8.com/nolan/64/git.png"/>  
+  <img alt="Stats" src="https://img.icons8.com/nolan/64/git.png" />
+  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Souraevshing&theme=blue-green" />
+  <img alt="most-used-languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souraevshing&theme=blue-green" />
 </p>
