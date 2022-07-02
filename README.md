@@ -36,12 +36,12 @@
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-  ![Next.js](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
+  ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)
   ![Gatsby.js](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
+  ![GraphQL](https://img.shields.io/badge/GraphQL-purple?style=for-the-badge&logo=graphql)
   ![Svelte.js](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
   ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
-  ![RestAPI](https://img.shields.io/badge/Rest-API-/blue)
+  ![RestAPI](https://img.shields.io/badge/RestAPI-grey?style=for-the-badge&logo=restapi)
   ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   
 - 🛢 &nbsp;
@@ -91,4 +91,4 @@
 <a href="https://twitter.com/thisis_souraev"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
-⭐️ From [Sourav](https://github.com/Souraevshing)
+
