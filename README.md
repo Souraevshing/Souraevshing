@@ -87,7 +87,6 @@
 <a href="https://www.facebook.com/sauraevshing/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://twitter.com/thisis_souraev"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
-<br/>
 
 <h3>
   <img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/32/000000/external-git-is-designed-for-coordinating-work-among-programmers-logo-tritone-tal- revivo.png"/> 
