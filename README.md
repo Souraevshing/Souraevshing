@@ -89,8 +89,7 @@
 </p>
 
 <h3>
-  <img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/32/000000/external-git-is-designed-for-coordinating-work-among-programmers-logo-tritone-tal- revivo.png"/> 
-  Statistics
+  :octocat: Statistics
 </h3>
 
 <a href="https://github.com/Souraevshing">
