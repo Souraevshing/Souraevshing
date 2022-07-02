@@ -43,8 +43,8 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![OracleDB](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Git](https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=github&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -60,11 +60,12 @@
 <h3>  :mega: Connect with Me </h3>
 
 <p align="center">
-<a href="mailto:isauravshing@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-isauravshing@gmail.com-yellow?style=flat-square&logo=gmail"></a>
-<a href="https://sauraevshing-portfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=next.js"></a>
+<a href="mailto:isauravshing@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:sourav.kumar23@outlook.com"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+<a href="https://sauraevshing-portfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/sourav-kumar-823b7415b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sourav%20Kumar%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/sauraevshing/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Sauraevshing-red?style=flat-square&logo=instagram"></a>
-<a href="https://www.facebook.com/sauraevshing/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Sauraevshing-skyblue?style=flat-square&logo=facebook"></a>
+<a href="https://www.facebook.com/sauraevshing/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://twitter.com/thisis_souraev"><img alt="Twitter" src="https://img.shields.io/badge/Facebook-Souraev-blue?style=flat-square&logo=twitter"></a>
 </p>
 
