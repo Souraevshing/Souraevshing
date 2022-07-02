@@ -89,7 +89,7 @@
 </p>
 
 
-<img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/32/000000/external-git-is-designed-for-coordinating-work-among-programmers-logo-tritone-tal-revivo.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/32/000000/external-git-is-designed-for-coordinating-work-among-programmers-logo-tritone-tal-revivo.png"/> Statistics
 
 <a href="https://github.com/Souraevshing">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souraevshing&theme=buefy&show_icons=true" />
