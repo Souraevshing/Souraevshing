@@ -88,9 +88,11 @@
 <a href="https://twitter.com/thisis_souraev"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 <br/>
-<br/>
 
-<img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/32/000000/external-git-is-designed-for-coordinating-work-among-programmers-logo-tritone-tal-revivo.png"/> <h3>Statistics</h3>
+<h3>
+  <img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/32/000000/external-git-is-designed-for-coordinating-work-among-programmers-logo-tritone-tal- revivo.png"/> 
+  Statistics
+</h3>
 
 <a href="https://github.com/Souraevshing">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souraevshing&theme=buefy&show_icons=true" />
