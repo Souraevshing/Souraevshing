@@ -98,5 +98,5 @@
 <br/>
 
 <p>
-    <img src="https://img.icons8.com/color-glass/25/000000/source-code.png"/> From [Souraevshing](https://github.com/Souraevshing)
+    <img src="https://img.icons8.com/color-glass/16/000000/source-code.png"/> From [Souraevshing](https://github.com/Souraevshing)
 </p>
