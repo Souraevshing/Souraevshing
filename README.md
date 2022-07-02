@@ -74,7 +74,6 @@
   ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <br/>
-<br/>
 
 <h3>  :mega: Connect with Me </h3>
 
@@ -95,8 +94,10 @@
   <p>
       <img alt="Stats" src="https://img.icons8.com/nolan/64/git.png" />
   </p>
-  <p>
+  <p align="center">
       <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Souraevshing&theme=blue-green" />
+  </p>
+  <p align="center">
       <img alt="most-used-languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souraevshing&theme=blue-green" />
   </p>
 </p>
