@@ -74,7 +74,6 @@
   ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <br/>
-
 <h3>  :mega: Connect with Me </h3>
 
 <p align="center">
@@ -90,14 +89,9 @@
 <a href="https://twitter.com/thisis_souraev"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
-<p>
-  <p>
-      <img alt="Stats" src="https://img.icons8.com/nolan/64/git.png" />
-  </p>
-  <p align="center">
-      <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=Souraevshing&theme=blue-green" />
-  </p>
-  <p align="center">
-      <img alt="most-used-languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souraevshing&theme=blue-green" />
-  </p>
-</p>
+<a href="https://github.com/Souraevshing">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souraevshing&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souraevshing&theme=buefy&layout=compact" />
+</a>
+
+⭐️ From [Souraevshing](https://github.com/Souraevshing)
