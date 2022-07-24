@@ -95,10 +95,11 @@
   :octocat: Statistics
 </h3>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <a href="https://github.com/Souraevshing">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Souraevshing&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souraevshing&theme=buefy&layout=compact" />
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  
   <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sourav-kumar-823b7415b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sourav-kumar-823b7415b?trk=profile-badge">Sourav Kumar</a></div>
               
 </a>
