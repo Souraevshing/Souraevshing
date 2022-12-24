@@ -44,7 +44,7 @@
   ![JWT](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
   ![RestAPI](https://img.shields.io/badge/RestAPI-grey?style=for-the-badge&logo=restapi)
   ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase&logoColor=000)
+  ![Firebase](https://img.shields.io/badge/Firebase-ff54cc?style=for-the-badge&logo=firebase&logoColor=000)
   
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
