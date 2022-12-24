@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring MERN Stack technologies.
 - 🎓 &nbsp; Studied Electronics at Oriental College of Technology.
-- 💼 &nbsp; Working as a Graduate Trainee at Wipro Technologies.
+- 💼 &nbsp; Working as a Full Stack Developer at Green Story.
 - 🌱 &nbsp; Learning more about MERN, Data Science, Java Full Stack.
 - ✍️ &nbsp; Sketching as a hobby.
 
