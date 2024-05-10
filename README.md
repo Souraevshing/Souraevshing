@@ -2,11 +2,11 @@
 
 <h3> 👨 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring data science.
-- 🎓 &nbsp; Studied Electronics at Oriental College of Technology.
-- 💼 &nbsp; Working as SDE I at Bind Systems.
-- 🌱 &nbsp; Learning more about MERN, MEAN, Spring framework.
-- ✍️ &nbsp; Sketching as a hobby.
+- 🤔 &nbsp; Exploring <b>Data science</b>.
+- 🎓 &nbsp; Studied Electronics at <b>Oriental College of Technology</b>.
+- 💼 &nbsp; Working as <b>Associate Software Developer at Innova Solutions</b>.
+- 🌱 &nbsp; Learning more about <b>MERN, MEAN, Spring framework</b>.
+- ✍️ &nbsp; <b>Sketching</b> as a hobby.
 
 <h3>:fire: &nbsp;Tech Stack</h3>
 
