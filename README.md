@@ -2,12 +2,11 @@
 
 <h3> 👨 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring MERN Stack technologies.
+- 🤔 &nbsp; Exploring data science.
 - 🎓 &nbsp; Studied Electronics at Oriental College of Technology.
 - 💼 &nbsp; Working as SDE I at Bind Systems.
-- 🌱 &nbsp; Learning more about MERN, Data Science, Java Full Stack.
+- 🌱 &nbsp; Learning more about MERN, MEAN, Spring framework.
 - ✍️ &nbsp; Sketching as a hobby.
-
 
 <h3>:fire: &nbsp;Tech Stack</h3>
 
@@ -81,7 +80,6 @@
 
 <p align="center">
 <a href="mailto:isauravshing@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="mailto:souravk@arv.co.th"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 <a href="https://sauraevshing-portfolio.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 <a href="https://gitlab.com/Souraevshing"><img src="https://img.shields.io/badge/GitLab-grey?style=for-the-badge&logo=gitlab&logoColor=black"></a>
 <a href="https://dev.to/sauraevshing"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
