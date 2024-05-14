@@ -90,8 +90,5 @@
 <a href="https://www.instagram.com/sauraevshing/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.facebook.com/sauraevshing/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://twitter.com/thisis_souraev"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</p>
-
-<p>
 <a href="https://app.daily.dev/sauraev"><img src="https://api.daily.dev/devcards/v2/cYskNUEqbKFPjtb3rUMlH.png?type=wide&r=wf4" width="652" alt="Sourav's Dev Card"/></a>
 </p>
