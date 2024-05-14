@@ -79,16 +79,19 @@
 <h3>  :mega: Connect with Me </h3>
 
 <p align="center">
-<a href="mailto:isauravshing@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://sauraevshing-portfolio.netlify.app/"><img alt="portfolio" src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=yellow"></a>
-<a href="https://algorithmxlr8.org/"><img alt="website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=orange"></a>
-<a href="https://gitlab.com/Souraevshing"><img src="https://img.shields.io/badge/GitLab-grey?style=for-the-badge&logo=gitlab&logoColor=black"></a>
-<a href="https://dev.to/sauraevshing"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
-<a href="https://www.hackerrank.com/isauravshing"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-<a href="https://leetcode.com/isauravshing/"><img alt="leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
-<a href="https://www.linkedin.com/in/sourav-kumar-823b7415b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/sauraevshing/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.facebook.com/sauraevshing/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://twitter.com/thisis_souraev"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://app.daily.dev/sauraev"><img src="https://api.daily.dev/devcards/v2/cYskNUEqbKFPjtb3rUMlH.png?type=wide&r=wf4" width="652" alt="Sourav's Dev Card"/></a>
+  <a href="mailto:isauravshing@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://sauraevshing-portfolio.netlify.app/"><img alt="portfolio" src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=yellow"></a>
+  <a href="https://algorithmxlr8.org/"><img alt="website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=orange"></a>
+  <a href="https://gitlab.com/Souraevshing"><img src="https://img.shields.io/badge/GitLab-grey?style=for-the-badge&logo=gitlab&logoColor=black"></a>
+  <a href="https://dev.to/sauraevshing"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
+  <a href="https://www.hackerrank.com/isauravshing"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+  <a href="https://leetcode.com/isauravshing/"><img alt="leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+  <a href="https://www.linkedin.com/in/sourav-kumar-823b7415b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/sauraevshing/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.facebook.com/sauraevshing/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://twitter.com/thisis_souraev"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</p>
+
+<p>
+  <a href="https://app.daily.dev/sauraev"><img src="https://api.daily.dev/devcards/v2/cYskNUEqbKFPjtb3rUMlH.png?type=wide&r=wf4" width="652" alt="Sourav's Dev Card"/></a>
 </p>
