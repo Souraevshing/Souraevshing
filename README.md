@@ -92,6 +92,6 @@
 <a href="https://twitter.com/thisis_souraev"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
-<p align="center">
+<p>
 <a href="https://app.daily.dev/sauraev"><img src="https://api.daily.dev/devcards/v2/cYskNUEqbKFPjtb3rUMlH.png?type=wide&r=wf4" width="652" alt="Sourav's Dev Card"/></a>
 </p>
