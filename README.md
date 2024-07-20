@@ -54,8 +54,6 @@
   ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
   
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![GitLab](https://img.shields.io/badge/GitLab-grey?style=for-the-badge&logo=gitlab&logoColor=black)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   ![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
@@ -79,7 +77,7 @@
 <h3>  :mega: Connect with Me </h3>
 
 <p align="center">
-  <a href="mailto:isauravshing@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:isauravshing@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://sauraevshing-portfolio.netlify.app/"><img alt="portfolio" src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=yellow"></a>
   <a href="https://linktr.ee/sauraev"><img alt="website" src="https://img.shields.io/badge/website-240046?style=for-the-badge&logo=About.me&logoColor=00a896"></a>
   <a href="https://gitlab.com/Souraevshing"><img src="https://img.shields.io/badge/Github-454b66?style=for-the-badge&logo=github&logoColor=161a1d"></a>
