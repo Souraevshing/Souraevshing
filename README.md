@@ -82,7 +82,7 @@
   <a href="mailto:isauravshing@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://sauraevshing-portfolio.netlify.app/"><img alt="portfolio" src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=yellow"></a>
   <a href="https://linktr.ee/sauraev"><img alt="website" src="https://img.shields.io/badge/website-240046?style=for-the-badge&logo=About.me&logoColor=00a896"></a>
-  <a href="https://gitlab.com/Souraevshing"><img src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=gitlab&logoColor=black"></a>
+  <a href="https://gitlab.com/Souraevshing"><img src="https://img.shields.io/badge/Github-454b66?style=for-the-badge&logo=github&logoColor=161a1d"></a>
   <a href="https://dev.to/sauraevshing"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
   <a href="https://www.hackerrank.com/isauravshing"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
   <a href="https://leetcode.com/isauravshing/"><img alt="leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
